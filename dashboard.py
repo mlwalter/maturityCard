@@ -113,7 +113,7 @@ if st.session_state.auth_token:
 
     if st.button("Fetch Data"):
         data = fetch_data(st.session_state.auth_token, start_date, end_date)
-        #st.write(data)  # Display the fetched data (for debugging)
+
         # Verifique se os dados contêm a chave 'details' e se não está vazia
         if 'details' in data and data['details']:
 
@@ -124,3 +124,4 @@ if st.session_state.auth_token:
             details_df['dataLog'] = pd.to_datetime(details_df['dataLog'])
             plot_users_login_evolution(details_df)
             plot_combined_licenses_evolution(details_df)
+        st.write(data)  # Display the fetched data (for debugging)
