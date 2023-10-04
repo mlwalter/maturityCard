@@ -1,0 +1,5360 @@
+{
+  "dateBegin": "2023-09-01T00:00:00.000Z",
+  "dateEnd": "2023-10-04T00:00:00.000Z",
+  "usersLoginCount": 67,
+  "usersCreatedCount": 64,
+  "licensesCreatedCount": 44,
+  "licensesExpiredCount": 2,
+  "licensesActivationPendingCount": 6,
+  "licensesActiveCount": 48,
+  "roomsStartedCount": 21,
+  "roomsCreatedCount": 38,
+  "roomsExpiredCount": 11,
+  "roomsFinishedCount": 16,
+  "playersCount": 90,
+  "details": [
+    {
+      "dataLog": "2023-09-01T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "642b4c68b98ce2328fcec6a1",
+          "email": "rmartins@segware.com",
+          "licenseCurrent": "642b4c68b98ce2328fcec6a3",
+          "_id": "64f27b0028986c69f5dda726"
+        },
+        {
+          "userId": "643468b2b98ce2328fcec874",
+          "email": "di.barsil@outlook.com",
+          "licenseCurrent": "",
+          "_id": "64f27b0028986c69f5dda727"
+        },
+        {
+          "userId": "64d695aa0bb4518d558b0445",
+          "email": "adam.santos@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "64f27b0028986c69f5dda728"
+        }
+      ],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [
+        {
+          "userId": "642c59bbb98ce2328fcec780",
+          "email": "antonioandredf@gmail.com",
+          "licenseCurrent": "642c59bbb98ce2328fcec782",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda729"
+        },
+        {
+          "userId": "647dea41a9fd9cc17cf33168",
+          "email": "peter.kerschbaumer@adevinta.com",
+          "licenseCurrent": "647dea41a9fd9cc17cf3316a",
+          "licenseTime": 91,
+          "_id": "64f27b0028986c69f5dda72a"
+        }
+      ],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda72b"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda72c"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda72d"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda72e"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda72f"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda730"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f27b0028986c69f5dda731"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [
+        {
+          "roomId": "64f22b1c28986c69f5dda710",
+          "roomToken": "TUU19F",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmartins@segware.com",
+          "expirationDate": "2023-09-16T18:19:08.593Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "64f27b0028986c69f5dda732"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-02T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda757"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda758"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda759"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda75a"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda75b"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda75c"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f3cc8028986c69f5dda75d"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-03T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda77c"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda77d"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda77e"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda77f"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda780"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda781"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f51e0028986c69f5dda782"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-04T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f63f6128986c69f5dda798",
+          "email": "marbrarocha@rd.com.br",
+          "licenseCurrent": "",
+          "_id": "64f66f8028986c69f5dda7cb"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "",
+          "_id": "64f66f8028986c69f5dda7cc"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "64f63f6128986c69f5dda798",
+          "email": "marbrarocha@rd.com.br",
+          "licenseCurrent": "",
+          "_id": "64f66f8028986c69f5dda7cd"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "",
+          "_id": "64f66f8028986c69f5dda7ce"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7cf"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d0"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d1"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d2"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d3"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d4"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f66f8028986c69f5dda7d5"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-05T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "_id": "64f7c10128986c69f5dda853"
+        },
+        {
+          "userId": "64f7315928986c69f5dda7f7",
+          "email": "eadlima@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885e",
+          "_id": "64f7c10128986c69f5dda854"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "64f7303d28986c69f5dda7e8",
+          "email": "migatos805@horsgit.com",
+          "licenseCurrent": "",
+          "_id": "64f7c10128986c69f5dda855"
+        },
+        {
+          "userId": "64f7305028986c69f5dda7eb",
+          "email": "mfmarcotti@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885a",
+          "_id": "64f7c10128986c69f5dda856"
+        },
+        {
+          "userId": "64f7308b28986c69f5dda7ee",
+          "email": "markarbelchior@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885b",
+          "_id": "64f7c10128986c69f5dda857"
+        },
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "_id": "64f7c10128986c69f5dda858"
+        },
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "_id": "64f7c10128986c69f5dda859"
+        },
+        {
+          "userId": "64f7315928986c69f5dda7f7",
+          "email": "eadlima@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885e",
+          "_id": "64f7c10128986c69f5dda85a"
+        },
+        {
+          "userId": "64f7317e28986c69f5dda7fa",
+          "email": "rodsanrodrigues@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885f",
+          "_id": "64f7c10128986c69f5dda85b"
+        },
+        {
+          "userId": "64f731b928986c69f5dda7ff",
+          "email": "ccfsouza@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18860",
+          "_id": "64f7c10128986c69f5dda85c"
+        },
+        {
+          "userId": "64f731ce28986c69f5dda802",
+          "email": "ggperes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18861",
+          "_id": "64f7c10128986c69f5dda85d"
+        },
+        {
+          "userId": "64f731e128986c69f5dda805",
+          "email": "welborges@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18862",
+          "_id": "64f7c10128986c69f5dda85e"
+        },
+        {
+          "userId": "64f731f728986c69f5dda808",
+          "email": "fcfigueiredo@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18863",
+          "_id": "64f7c10128986c69f5dda85f"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "64f63f6128986c69f5dda798",
+          "email": "marbrarocha@rd.com.br",
+          "licenseCurrent": "64f733759fd2ef2b79e18856",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda860"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda861"
+        },
+        {
+          "userId": "64f7305028986c69f5dda7eb",
+          "email": "mfmarcotti@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885a",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda862"
+        },
+        {
+          "userId": "64f7308b28986c69f5dda7ee",
+          "email": "markarbelchior@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885b",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda863"
+        },
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda864"
+        },
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda865"
+        },
+        {
+          "userId": "64f7315928986c69f5dda7f7",
+          "email": "eadlima@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885e",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda866"
+        },
+        {
+          "userId": "64f7317e28986c69f5dda7fa",
+          "email": "rodsanrodrigues@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885f",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda867"
+        },
+        {
+          "userId": "64f731b928986c69f5dda7ff",
+          "email": "ccfsouza@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18860",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda868"
+        },
+        {
+          "userId": "64f731ce28986c69f5dda802",
+          "email": "ggperes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18861",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda869"
+        },
+        {
+          "userId": "64f731e128986c69f5dda805",
+          "email": "welborges@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18862",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86a"
+        },
+        {
+          "userId": "64f731f728986c69f5dda808",
+          "email": "fcfigueiredo@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18863",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86b"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda878"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda879"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda87a"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda87b"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda87c"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda87d"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f7c10128986c69f5dda87e"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "64f63f6128986c69f5dda798",
+          "email": "marbrarocha@rd.com.br",
+          "licenseCurrent": "64f733759fd2ef2b79e18856",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86c"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86d"
+        },
+        {
+          "userId": "64f7305028986c69f5dda7eb",
+          "email": "mfmarcotti@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885a",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86e"
+        },
+        {
+          "userId": "64f7308b28986c69f5dda7ee",
+          "email": "markarbelchior@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885b",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda86f"
+        },
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda870"
+        },
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda871"
+        },
+        {
+          "userId": "64f7315928986c69f5dda7f7",
+          "email": "eadlima@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885e",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda872"
+        },
+        {
+          "userId": "64f7317e28986c69f5dda7fa",
+          "email": "rodsanrodrigues@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885f",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda873"
+        },
+        {
+          "userId": "64f731b928986c69f5dda7ff",
+          "email": "ccfsouza@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18860",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda874"
+        },
+        {
+          "userId": "64f731ce28986c69f5dda802",
+          "email": "ggperes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18861",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda875"
+        },
+        {
+          "userId": "64f731e128986c69f5dda805",
+          "email": "welborges@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18862",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda876"
+        },
+        {
+          "userId": "64f731f728986c69f5dda808",
+          "email": "fcfigueiredo@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18863",
+          "licenseTime": 365,
+          "_id": "64f7c10128986c69f5dda877"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "64f7336928986c69f5dda81b",
+          "roomToken": "6P64SI",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-09-20T13:55:53.886Z",
+          "startDate": "2023-09-05T14:49:51.177Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "64f7c10128986c69f5dda880"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "64f7336928986c69f5dda81b",
+          "roomToken": "6P64SI",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-09-20T13:55:53.886Z",
+          "startDate": "2023-09-05T14:49:51.177Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "64f7c10128986c69f5dda87f"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-06T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f878bc28986c69f5dda8b6",
+          "email": "mlwalter@gmail.com",
+          "licenseCurrent": "",
+          "_id": "64f9128028986c69f5dda8ea"
+        },
+        {
+          "userId": "64f8828a28986c69f5dda8c8",
+          "email": "danielgrocha@suzano.com.br",
+          "licenseCurrent": "",
+          "_id": "64f9128028986c69f5dda8eb"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "64f878bc28986c69f5dda8b6",
+          "email": "mlwalter@gmail.com",
+          "licenseCurrent": "",
+          "_id": "64f9128028986c69f5dda8ec"
+        },
+        {
+          "userId": "64f8828a28986c69f5dda8c8",
+          "email": "danielgrocha@suzano.com.br",
+          "licenseCurrent": "",
+          "_id": "64f9128028986c69f5dda8ed"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8ee"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8ef"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8f0"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8f1"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8f2"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8f3"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64f9128028986c69f5dda8f4"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-07T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda917"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda918"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda919"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda91a"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda91b"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda91c"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64fa640028986c69f5dda91d"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-08T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda93c"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda93d"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda93e"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda93f"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda940"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda941"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64fbb58028986c69f5dda942"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-09T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda961"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda962"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda963"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda964"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda965"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda966"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64fd070028986c69f5dda967"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-10T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda986"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda987"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda988"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda989"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda98a"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda98b"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64fe588028986c69f5dda98c"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-11T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64ff6a1828986c69f5dda99c",
+          "email": "diosi.freitas@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "64ffaa0028986c69f5ddaa30"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "64ff6a1828986c69f5dda99c",
+          "email": "diosi.freitas@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "64ffaa0028986c69f5ddaa31"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa32"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa33"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa34"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa35"
+        },
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa36"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa37"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "64ffaa0028986c69f5ddaa38"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [
+        {
+          "roomId": "64ff6c0928986c69f5dda9af",
+          "roomToken": "4PYW0X",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "diosi.freitas@objective.com.br",
+          "expirationDate": "2023-09-26T19:35:37.587Z",
+          "startDate": "2023-09-11T19:44:06.749Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "64ffaa0028986c69f5ddaa3a"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "64ff6c0928986c69f5dda9af",
+          "roomToken": "4PYW0X",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "diosi.freitas@objective.com.br",
+          "expirationDate": "2023-09-26T19:35:37.587Z",
+          "startDate": "2023-09-11T19:44:06.749Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "64ffaa0028986c69f5ddaa39"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-12T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "_id": "6500fb8028986c69f5ddab78"
+        },
+        {
+          "userId": "6437fe078be78e76a5e70b10",
+          "email": "diogo.silva@objective.com.br",
+          "licenseCurrent": "6437ff588be78e76a5e70b21",
+          "_id": "6500fb8028986c69f5ddab79"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "6500fb8028986c69f5ddab7a"
+        },
+        {
+          "userId": "65007cf028986c69f5ddaa60",
+          "email": "felipe@e6inc.pro",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab7b"
+        },
+        {
+          "userId": "6500819728986c69f5ddaa84",
+          "email": "gustavosq@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab7c"
+        },
+        {
+          "userId": "6500898728986c69f5ddaa9b",
+          "email": "csleoc@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab7d"
+        },
+        {
+          "userId": "6500aa5328986c69f5ddab33",
+          "email": "gabrielvwilke@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab7e"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "65007cf028986c69f5ddaa60",
+          "email": "felipe@e6inc.pro",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab7f"
+        },
+        {
+          "userId": "6500819728986c69f5ddaa84",
+          "email": "gustavosq@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab80"
+        },
+        {
+          "userId": "6500898728986c69f5ddaa9b",
+          "email": "csleoc@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab81"
+        },
+        {
+          "userId": "6500aa5328986c69f5ddab33",
+          "email": "gabrielvwilke@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6500fb8028986c69f5ddab82"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab84"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab85"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab86"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab87"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab88"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab89"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "642d7aecb98ce2328fcec7e0",
+          "email": "w.meier88@gmail.com",
+          "licenseCurrent": "642d7aecb98ce2328fcec7e2",
+          "licenseTime": 90,
+          "_id": "6500fb8028986c69f5ddab83"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "65007dfb28986c69f5ddaa73",
+          "roomToken": "DHOFFZ",
+          "lang": "en",
+          "isTrial": true,
+          "owner": "felipe@e6inc.pro",
+          "expirationDate": "2023-09-27T15:04:27.033Z",
+          "startDate": "2023-09-12T15:06:22.406Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab90"
+        },
+        {
+          "roomId": "6500939128986c69f5ddaad2",
+          "roomToken": "WQ8BIV",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "w.meier88@gmail.com",
+          "expirationDate": "2023-09-27T16:36:33.089Z",
+          "startDate": "2023-09-12T16:39:30.281Z",
+          "endDate": "2023-09-12T21:10:23.790Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6500fb8028986c69f5ddab91"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "65007dfb28986c69f5ddaa73",
+          "roomToken": "DHOFFZ",
+          "lang": "en",
+          "isTrial": true,
+          "owner": "felipe@e6inc.pro",
+          "expirationDate": "2023-09-27T15:04:27.033Z",
+          "startDate": "2023-09-12T15:06:22.406Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab8a"
+        },
+        {
+          "roomId": "650081df28986c69f5ddaa97",
+          "roomToken": "6HFEXL",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "gustavosq@gmail.com",
+          "expirationDate": "2023-09-27T15:21:03.853Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab8b"
+        },
+        {
+          "roomId": "650089b428986c69f5ddaaae",
+          "roomToken": "1W32EX",
+          "lang": "en",
+          "isTrial": true,
+          "owner": "csleoc@gmail.com",
+          "expirationDate": "2023-09-27T15:54:28.796Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab8c"
+        },
+        {
+          "roomId": "6500939128986c69f5ddaad2",
+          "roomToken": "WQ8BIV",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "w.meier88@gmail.com",
+          "expirationDate": "2023-09-27T16:36:33.089Z",
+          "startDate": "2023-09-12T16:39:30.281Z",
+          "endDate": "2023-09-12T21:10:23.790Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6500fb8028986c69f5ddab8d"
+        },
+        {
+          "roomId": "6500a93828986c69f5ddab2f",
+          "roomToken": "EOGE2X",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-09-27T18:08:56.056Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab8e"
+        },
+        {
+          "roomId": "6500aaf728986c69f5ddab4a",
+          "roomToken": "95WPL6",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "gabrielvwilke@gmail.com",
+          "expirationDate": "2023-09-27T18:16:23.411Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6500fb8028986c69f5ddab8f"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "6500939128986c69f5ddaad2",
+          "roomToken": "WQ8BIV",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "w.meier88@gmail.com",
+          "expirationDate": "2023-09-27T16:36:33.089Z",
+          "startDate": "2023-09-12T16:39:30.281Z",
+          "endDate": "2023-09-12T21:10:23.790Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6500fb8028986c69f5ddab92"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Tico",
+          "email": "w.asd@gmail.com",
+          "role": "Regular",
+          "roomId": "6500939128986c69f5ddaad2",
+          "_id": "6500fb8028986c69f5ddab93"
+        },
+        {
+          "nickname": "Zeca",
+          "email": "jose.corte@objective.com.br",
+          "role": "Regular",
+          "roomId": "6500939128986c69f5ddaad2",
+          "_id": "6500fb8028986c69f5ddab94"
+        },
+        {
+          "nickname": "Wilhelm M",
+          "email": "wilhelm.meier@objective.com.br",
+          "role": "Regular",
+          "roomId": "6500939128986c69f5ddaad2",
+          "_id": "6500fb8028986c69f5ddab95"
+        },
+        {
+          "nickname": "Wilhelm M",
+          "email": "w.meier88@gmail.com",
+          "role": "Moderator",
+          "roomId": "6500939128986c69f5ddaad2",
+          "_id": "6500fb8028986c69f5ddab96"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-13T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64d695aa0bb4518d558b0445",
+          "email": "adam.santos@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "65024d0028986c69f5ddac3b"
+        },
+        {
+          "userId": "64ff6a1828986c69f5dda99c",
+          "email": "diosi.freitas@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "65024d0028986c69f5ddac3c"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "65013b1428986c69f5ddabbb",
+          "email": "webfranklin@gmail.com",
+          "licenseCurrent": "",
+          "_id": "65024d0028986c69f5ddac3d"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac3e"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac3f"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac40"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac41"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac42"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65024d0028986c69f5ddac43"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [
+        {
+          "roomId": "64edf37128986c69f5dda48c",
+          "roomToken": "-",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "caren.possobom@objective.com.br",
+          "expirationDate": "2023-09-13T13:32:33.735Z",
+          "startDate": null,
+          "endDate": "2023-09-13T20:05:00.272Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65024d0028986c69f5ddac44"
+        },
+        {
+          "roomId": "64ee3d5828986c69f5dda606",
+          "roomToken": "6LSVHG",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "caren.possobom+teste@objective.com.br",
+          "expirationDate": "2023-09-13T18:47:52.515Z",
+          "startDate": null,
+          "endDate": "2023-09-13T20:05:00.273Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65024d0028986c69f5ddac45"
+        }
+      ],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-14T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "65039e8028986c69f5ddb2b7"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "65039e8028986c69f5ddb2b8"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "650313a828986c69f5ddac8e",
+          "email": "test0923@test.com",
+          "licenseCurrent": "650313a828986c69f5ddac90",
+          "_id": "65039e8028986c69f5ddb2b9"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "650313a828986c69f5ddac8e",
+          "email": "test0923@test.com",
+          "licenseCurrent": "650313a828986c69f5ddac90",
+          "licenseTime": 30,
+          "_id": "65039e8028986c69f5ddb2ba"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2bc"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2bd"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2be"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2bf"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2c0"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65039e8028986c69f5ddb2c1"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "650313a828986c69f5ddac8e",
+          "email": "test0923@test.com",
+          "licenseCurrent": "650313a828986c69f5ddac90",
+          "licenseTime": 30,
+          "_id": "65039e8028986c69f5ddb2bb"
+        }
+      ],
+      "roomsStarted": [],
+      "roomsCreated": [
+        {
+          "roomId": "65030fcb28986c69f5ddac7e",
+          "roomToken": "QBLTFN",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "erus.ferreira@objective.com.br",
+          "expirationDate": "2023-09-29T13:51:07.722Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65039e8028986c69f5ddb2c2"
+        },
+        {
+          "roomId": "65034fc328986c69f5ddb295",
+          "roomToken": "GF91HJ",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-09-29T18:24:03.991Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65039e8028986c69f5ddb2c3"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-15T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "647dd5caa9fd9cc17cf330f3",
+          "email": "w.meier@objective.com.br",
+          "licenseCurrent": "647dfb41a9fd9cc17cf331e4",
+          "_id": "6504f00028986c69f5ddb876"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "6504f00028986c69f5ddb877"
+        },
+        {
+          "userId": "6504cdb528986c69f5ddb844",
+          "email": "bruno.pdsnk@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6504f00028986c69f5ddb878"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "6504cdb528986c69f5ddb844",
+          "email": "bruno.pdsnk@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6504f00028986c69f5ddb879"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87a"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87b"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87c"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87d"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87e"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6504f00028986c69f5ddb87f"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [
+        {
+          "roomId": "65034fc328986c69f5ddb295",
+          "roomToken": "GF91HJ",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-09-29T18:24:03.991Z",
+          "startDate": "2023-09-15T16:39:33.504Z",
+          "endDate": "2023-09-15T17:44:15.784Z",
+          "roundCount": 27,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "6504f00028986c69f5ddb881"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "6504ce8328986c69f5ddb857",
+          "roomToken": "R15TEZ",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "bruno.pdsnk@gmail.com",
+          "expirationDate": "2023-09-30T21:37:07.031Z",
+          "startDate": null,
+          "endDate": "2023-09-15T21:37:43.477Z",
+          "roundCount": 0,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6504f00028986c69f5ddb880"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "65034fc328986c69f5ddb295",
+          "roomToken": "GF91HJ",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-09-29T18:24:03.991Z",
+          "startDate": "2023-09-15T16:39:33.504Z",
+          "endDate": "2023-09-15T17:44:15.784Z",
+          "roundCount": 27,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "6504f00028986c69f5ddb882"
+        },
+        {
+          "roomId": "6504ce8328986c69f5ddb857",
+          "roomToken": "R15TEZ",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "bruno.pdsnk@gmail.com",
+          "expirationDate": "2023-09-30T21:37:07.031Z",
+          "startDate": null,
+          "endDate": "2023-09-15T21:37:43.477Z",
+          "roundCount": 0,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6504f00028986c69f5ddb883"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Edson de",
+          "email": "eadlima@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb884"
+        },
+        {
+          "nickname": "Rocha",
+          "email": "marbrarocha@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb885"
+        },
+        {
+          "nickname": "Camila",
+          "email": "ccfsouza@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb886"
+        },
+        {
+          "nickname": "Felipe",
+          "email": "fcfigueiredo@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb887"
+        },
+        {
+          "nickname": "Maria",
+          "email": "mfmarcotti@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb888"
+        },
+        {
+          "nickname": "Cassassola",
+          "email": "rmlopes@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb889"
+        },
+        {
+          "nickname": "João Filho",
+          "email": "jbsfilho@rd.com.br",
+          "role": "Moderator",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb88a"
+        },
+        {
+          "nickname": "Marcia",
+          "email": "markarbelchior@rd.com.br",
+          "role": "Regular",
+          "roomId": "65034fc328986c69f5ddb295",
+          "_id": "6504f00028986c69f5ddb88b"
+        },
+        {
+          "nickname": "Bruno S",
+          "email": "bruno.pdsnk@gmail.com",
+          "role": "Moderator",
+          "roomId": "6504ce8328986c69f5ddb857",
+          "_id": "6504f00028986c69f5ddb88c"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-16T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1baf"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1bb0"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1bb1"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1bb2"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1bb3"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65064180ce9e735036aa1bb4"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [
+        {
+          "roomId": "64f22b1c28986c69f5dda710",
+          "roomToken": "TUU19F",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmartins@segware.com",
+          "expirationDate": "2023-09-16T18:19:08.593Z",
+          "startDate": null,
+          "endDate": "2023-09-16T20:05:00.365Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65064180ce9e735036aa1bb5"
+        }
+      ],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-17T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd4"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd5"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd6"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd7"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd8"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65079300ce9e735036aa1bd9"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-18T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "6508943cce9e735036aa1bed",
+          "email": "rodrigoalmeidadeoliveira@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c1f"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "65088e0cce9e735036aa1be7",
+          "email": "blasterofhell@hotmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c20"
+        },
+        {
+          "userId": "65088f31ce9e735036aa1bea",
+          "email": "emersonschuede@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c21"
+        },
+        {
+          "userId": "6508943cce9e735036aa1bed",
+          "email": "rodrigoalmeidadeoliveira@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c22"
+        },
+        {
+          "userId": "65089962ce9e735036aa1c03",
+          "email": "mirianap.si@gmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c23"
+        },
+        {
+          "userId": "6508a2bdce9e735036aa1c06",
+          "email": "augusto_brum07@hotmail.com",
+          "licenseCurrent": "",
+          "_id": "6508e480ce9e735036aa1c24"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c25"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c26"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c27"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c28"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c29"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6508e480ce9e735036aa1c2a"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [
+        {
+          "roomId": "650894a7ce9e735036aa1c00",
+          "roomToken": "KDWVXK",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "rodrigoalmeidadeoliveira@gmail.com",
+          "expirationDate": "2023-10-03T18:19:19.177Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6508e480ce9e735036aa1c2b"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-19T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "650a3600ce9e735036aa1c9d"
+        },
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "_id": "650a3600ce9e735036aa1c9e"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "6509d7cace9e735036aa1c82",
+          "email": "evangelistakarollopes@gmail.com",
+          "licenseCurrent": "",
+          "_id": "650a3600ce9e735036aa1c9f"
+        },
+        {
+          "userId": "6509e1cece9e735036aa1c85",
+          "email": "srespesani@yahoo.com.br",
+          "licenseCurrent": "",
+          "_id": "650a3600ce9e735036aa1ca0"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca1"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca2"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca3"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca4"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca5"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "650a3600ce9e735036aa1ca6"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-20T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "650b8780ce9e735036aa1ced"
+        }
+      ],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cee"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cef"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cf0"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cf1"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cf2"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "650b8780ce9e735036aa1cf3"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [
+        {
+          "roomId": "650ae786ce9e735036aa1ccf",
+          "roomToken": "TM2L8H",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-10-05T12:37:26.693Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "650b8780ce9e735036aa1cf4"
+        }
+      ],
+      "roomsExpired": [
+        {
+          "roomId": "64f7336928986c69f5dda81b",
+          "roomToken": "6P64SI",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-09-20T13:55:53.886Z",
+          "startDate": "2023-09-05T14:49:51.177Z",
+          "endDate": "2023-09-20T20:05:00.128Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "650b8780ce9e735036aa1cf5"
+        }
+      ],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-21T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d16"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d17"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d18"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d19"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d1a"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "650cd900ce9e735036aa1d1b"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-22T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "6437fe078be78e76a5e70b10",
+          "email": "diogo.silva@objective.com.br",
+          "licenseCurrent": "6437ff588be78e76a5e70b21",
+          "_id": "650e2a80ce9e735036aa1d7d"
+        },
+        {
+          "userId": "64d695aa0bb4518d558b0445",
+          "email": "adam.santos@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "650e2a80ce9e735036aa1d7e"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "650e2a80ce9e735036aa1d7f"
+        }
+      ],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d80"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d81"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d82"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d83"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d84"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "650e2a80ce9e735036aa1d85"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-23T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "650f052bce9e735036aa1d96",
+          "email": "lorenebr@gmail.com",
+          "licenseCurrent": "",
+          "_id": "650f7c00ce9e735036aa1dcd"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "650f052bce9e735036aa1d96",
+          "email": "lorenebr@gmail.com",
+          "licenseCurrent": "",
+          "_id": "650f7c00ce9e735036aa1dce"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dcf"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dd0"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dd1"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dd2"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dd3"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "650f7c00ce9e735036aa1dd4"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [
+        {
+          "roomId": "650f057ace9e735036aa1da9",
+          "roomToken": "WCSTNX",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "lorenebr@gmail.com",
+          "expirationDate": "2023-10-08T15:34:18.324Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "650f7c00ce9e735036aa1dd5"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-24T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "_id": "6510cd80ce9e735036aa1ecd"
+        }
+      ],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ece"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ecf"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ed0"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ed1"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ed2"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6510cd80ce9e735036aa1ed3"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [
+        {
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "roomToken": "KEUC2S",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-09T13:31:47.506Z",
+          "startDate": "2023-09-24T13:34:42.172Z",
+          "endDate": "2023-09-24T13:40:54.818Z",
+          "roundCount": 5,
+          "level": "1->2",
+          "maturityLevel": "1",
+          "_id": "6510cd80ce9e735036aa1ed5"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "roomToken": "KEUC2S",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-09T13:31:47.506Z",
+          "startDate": "2023-09-24T13:34:42.172Z",
+          "endDate": "2023-09-24T13:40:54.818Z",
+          "roundCount": 5,
+          "level": "1->2",
+          "maturityLevel": "1",
+          "_id": "6510cd80ce9e735036aa1ed4"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "roomToken": "KEUC2S",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-09T13:31:47.506Z",
+          "startDate": "2023-09-24T13:34:42.172Z",
+          "endDate": "2023-09-24T13:40:54.818Z",
+          "roundCount": 5,
+          "level": "1->2",
+          "maturityLevel": "1",
+          "_id": "6510cd80ce9e735036aa1ed6"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Rafale Teste",
+          "email": "teste@hotmail.com",
+          "role": "Regular",
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "_id": "6510cd80ce9e735036aa1ed7"
+        },
+        {
+          "nickname": "Rafael Marco",
+          "email": "rafael.cassassola@gmail.com",
+          "role": "Regular",
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "_id": "6510cd80ce9e735036aa1ed8"
+        },
+        {
+          "nickname": "Rafael",
+          "email": "rafinhacassa@hotmail.com",
+          "role": "Regular",
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "_id": "6510cd80ce9e735036aa1ed9"
+        },
+        {
+          "nickname": "Rafael M",
+          "email": "rmlopes@rd.com.br",
+          "role": "Moderator",
+          "roomId": "65103a43ce9e735036aa1dfb",
+          "_id": "6510cd80ce9e735036aa1eda"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-25T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "6437fe078be78e76a5e70b10",
+          "email": "diogo.silva@objective.com.br",
+          "licenseCurrent": "6437ff588be78e76a5e70b21",
+          "_id": "65121f00ce9e735036aa26aa"
+        },
+        {
+          "userId": "647dff2da9fd9cc17cf33253",
+          "email": "danilo.garcia@objective.com.br",
+          "licenseCurrent": "647dff2da9fd9cc17cf33255",
+          "_id": "65121f00ce9e735036aa26ab"
+        },
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "6511d385ce9e735036aa228c",
+          "_id": "65121f00ce9e735036aa26ac"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "65121f00ce9e735036aa26ad"
+        },
+        {
+          "userId": "64f7310428986c69f5dda7f1",
+          "email": "rmlopes@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885c",
+          "_id": "65121f00ce9e735036aa26ae"
+        },
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "_id": "65121f00ce9e735036aa26af"
+        },
+        {
+          "userId": "6511be9dce9e735036aa2017",
+          "email": "alexandre@tracao.online",
+          "licenseCurrent": "",
+          "_id": "65121f00ce9e735036aa26b0"
+        },
+        {
+          "userId": "6511f08cce9e735036aa257b",
+          "email": "ivan.gonzales@performance-dev.com",
+          "licenseCurrent": "6511f08cce9e735036aa257d",
+          "_id": "65121f00ce9e735036aa26b1"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "6511be9dce9e735036aa2017",
+          "email": "alexandre@tracao.online",
+          "licenseCurrent": "",
+          "_id": "65121f00ce9e735036aa26b2"
+        },
+        {
+          "userId": "6511f08cce9e735036aa257b",
+          "email": "ivan.gonzales@performance-dev.com",
+          "licenseCurrent": "6511f08cce9e735036aa257d",
+          "_id": "65121f00ce9e735036aa26b3"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "6511d385ce9e735036aa228c",
+          "licenseTime": 1096,
+          "_id": "65121f00ce9e735036aa26b4"
+        },
+        {
+          "userId": "6511f08cce9e735036aa257b",
+          "email": "ivan.gonzales@performance-dev.com",
+          "licenseCurrent": "6511f08cce9e735036aa257d",
+          "licenseTime": 365,
+          "_id": "65121f00ce9e735036aa26b5"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26bb"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26bc"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26bd"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26be"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26bf"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65121f00ce9e735036aa26c0"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "647dea41a9fd9cc17cf33168",
+          "email": "peter.kerschbaumer@adevinta.com",
+          "licenseCurrent": "647dea41a9fd9cc17cf3316a",
+          "licenseTime": 365,
+          "_id": "65121f00ce9e735036aa26b6"
+        },
+        {
+          "userId": "647deb77a9fd9cc17cf33173",
+          "email": "julio@flama.is",
+          "licenseCurrent": "647deb77a9fd9cc17cf33175",
+          "licenseTime": 365,
+          "_id": "65121f00ce9e735036aa26b7"
+        },
+        {
+          "userId": "647debf8a9fd9cc17cf3317f",
+          "email": "ing.cesarnegrete@gmail.com",
+          "licenseCurrent": "647debf8a9fd9cc17cf33181",
+          "licenseTime": 365,
+          "_id": "65121f00ce9e735036aa26b8"
+        },
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "6511d385ce9e735036aa228c",
+          "licenseTime": 1096,
+          "_id": "65121f00ce9e735036aa26b9"
+        },
+        {
+          "userId": "6511f08cce9e735036aa257b",
+          "email": "ivan.gonzales@performance-dev.com",
+          "licenseCurrent": "6511f08cce9e735036aa257d",
+          "licenseTime": 365,
+          "_id": "65121f00ce9e735036aa26ba"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "6500a93828986c69f5ddab2f",
+          "roomToken": "EOGE2X",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-09-27T18:08:56.056Z",
+          "startDate": "2023-09-25T19:10:14.481Z",
+          "endDate": "2023-09-25T19:21:21.150Z",
+          "roundCount": 4,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26c7"
+        },
+        {
+          "roomId": "650ae786ce9e735036aa1ccf",
+          "roomToken": "TM2L8H",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-10-05T12:37:26.693Z",
+          "startDate": "2023-09-25T14:17:05.763Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65121f00ce9e735036aa26c8"
+        },
+        {
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "roomToken": "N7AZ3W",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-10T14:40:18.515Z",
+          "startDate": "2023-09-25T14:44:57.266Z",
+          "endDate": "2023-09-25T15:01:20.618Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65121f00ce9e735036aa26c9"
+        },
+        {
+          "roomId": "6511cca1ce9e735036aa218c",
+          "roomToken": "38R08J",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-10-10T18:08:33.219Z",
+          "startDate": "2023-09-25T18:11:52.652Z",
+          "endDate": "2023-09-25T18:35:18.403Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26ca"
+        },
+        {
+          "roomId": "6511e847ce9e735036aa247a",
+          "roomToken": "2I3199",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-10T20:06:31.999Z",
+          "startDate": "2023-09-25T20:09:56.023Z",
+          "endDate": "2023-09-25T20:28:33.813Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26cb"
+        },
+        {
+          "roomId": "6511f1efce9e735036aa25a1",
+          "roomToken": "H3UM6R",
+          "lang": "en",
+          "isTrial": false,
+          "owner": "ivan.gonzales@performance-dev.com",
+          "expirationDate": "2023-10-10T20:47:43.775Z",
+          "startDate": "2023-09-25T20:53:56.000Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65121f00ce9e735036aa26cc"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "roomToken": "N7AZ3W",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-10T14:40:18.515Z",
+          "startDate": "2023-09-25T14:44:57.266Z",
+          "endDate": "2023-09-25T15:01:20.618Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65121f00ce9e735036aa26c1"
+        },
+        {
+          "roomId": "6511cca1ce9e735036aa218c",
+          "roomToken": "38R08J",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-10-10T18:08:33.219Z",
+          "startDate": "2023-09-25T18:11:52.652Z",
+          "endDate": "2023-09-25T18:35:18.403Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26c2"
+        },
+        {
+          "roomId": "6511da2bce9e735036aa2317",
+          "roomToken": "-",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-10-10T19:06:19.497Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65121f00ce9e735036aa26c3"
+        },
+        {
+          "roomId": "6511dfc9ce9e735036aa2459",
+          "roomToken": "PHBYFW",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "danilo.garcia@objective.com.br",
+          "expirationDate": "2023-10-10T19:30:17.372Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65121f00ce9e735036aa26c4"
+        },
+        {
+          "roomId": "6511e847ce9e735036aa247a",
+          "roomToken": "2I3199",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-10T20:06:31.999Z",
+          "startDate": "2023-09-25T20:09:56.023Z",
+          "endDate": "2023-09-25T20:28:33.813Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26c5"
+        },
+        {
+          "roomId": "6511f1efce9e735036aa25a1",
+          "roomToken": "H3UM6R",
+          "lang": "en",
+          "isTrial": false,
+          "owner": "ivan.gonzales@performance-dev.com",
+          "expirationDate": "2023-10-10T20:47:43.775Z",
+          "startDate": "2023-09-25T20:53:56.000Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65121f00ce9e735036aa26c6"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "6500a93828986c69f5ddab2f",
+          "roomToken": "EOGE2X",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-09-27T18:08:56.056Z",
+          "startDate": "2023-09-25T19:10:14.481Z",
+          "endDate": "2023-09-25T19:21:21.150Z",
+          "roundCount": 4,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26cd"
+        },
+        {
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "roomToken": "N7AZ3W",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "rmlopes@rd.com.br",
+          "expirationDate": "2023-10-10T14:40:18.515Z",
+          "startDate": "2023-09-25T14:44:57.266Z",
+          "endDate": "2023-09-25T15:01:20.618Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65121f00ce9e735036aa26ce"
+        },
+        {
+          "roomId": "6511cca1ce9e735036aa218c",
+          "roomToken": "38R08J",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "jbsfilho@rd.com.br",
+          "expirationDate": "2023-10-10T18:08:33.219Z",
+          "startDate": "2023-09-25T18:11:52.652Z",
+          "endDate": "2023-09-25T18:35:18.403Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26cf"
+        },
+        {
+          "roomId": "6511e847ce9e735036aa247a",
+          "roomToken": "2I3199",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-10T20:06:31.999Z",
+          "startDate": "2023-09-25T20:09:56.023Z",
+          "endDate": "2023-09-25T20:28:33.813Z",
+          "roundCount": 3,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "65121f00ce9e735036aa26d0"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Diogo P",
+          "email": "di.barsil@outlook.com",
+          "role": "Regular",
+          "roomId": "6500a93828986c69f5ddab2f",
+          "_id": "65121f00ce9e735036aa26d1"
+        },
+        {
+          "nickname": "Danilo",
+          "email": "danilotests@gmail.com",
+          "role": "Regular",
+          "roomId": "6500a93828986c69f5ddab2f",
+          "_id": "65121f00ce9e735036aa26d2"
+        },
+        {
+          "nickname": "Diogo B",
+          "email": "diogo.silva@objective.com.br",
+          "role": "Moderator",
+          "roomId": "6500a93828986c69f5ddab2f",
+          "_id": "65121f00ce9e735036aa26d3"
+        },
+        {
+          "nickname": "Sal",
+          "email": "secagliari@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d4"
+        },
+        {
+          "nickname": "Alda",
+          "email": "acrocha@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d5"
+        },
+        {
+          "nickname": "Rafael M",
+          "email": "rmlopes@rd.com.br",
+          "role": "Moderator",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d6"
+        },
+        {
+          "nickname": "Julho",
+          "email": "jasousa@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d7"
+        },
+        {
+          "nickname": "Ziolle 4X",
+          "email": "prziolle@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d8"
+        },
+        {
+          "nickname": "Vaner",
+          "email": "vteixeira@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26d9"
+        },
+        {
+          "nickname": "Sá",
+          "email": "sarmancastilho@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26da"
+        },
+        {
+          "nickname": "andre",
+          "email": "andrerabelo@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26db"
+        },
+        {
+          "nickname": "Feijão",
+          "email": "fschneider@rd.com.br",
+          "role": "Regular",
+          "roomId": "65119bd2ce9e735036aa1f3e",
+          "_id": "65121f00ce9e735036aa26dc"
+        },
+        {
+          "nickname": "Fabi",
+          "email": "Fsiost.3con@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26dd"
+        },
+        {
+          "nickname": "Jaime",
+          "email": "jamdsantos@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26de"
+        },
+        {
+          "nickname": "Maria",
+          "email": "mfmarcotti@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26df"
+        },
+        {
+          "nickname": "Lucas AB",
+          "email": "labraga@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e0"
+        },
+        {
+          "nickname": "Gabi",
+          "email": "ggperes@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e1"
+        },
+        {
+          "nickname": "João Filho",
+          "email": "jbsfilho@rd.com.br",
+          "role": "Moderator",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e2"
+        },
+        {
+          "nickname": "Felipe Neves",
+          "email": "felbarneves@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e3"
+        },
+        {
+          "nickname": "Jadder",
+          "email": "jadcabelias@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e4"
+        },
+        {
+          "nickname": "Camila",
+          "email": "ccfsouza@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e5"
+        },
+        {
+          "nickname": "Juliana",
+          "email": "jmachado@rd.com.br",
+          "role": "Observer",
+          "roomId": "6511cca1ce9e735036aa218c",
+          "_id": "65121f00ce9e735036aa26e6"
+        },
+        {
+          "nickname": "Felipone",
+          "email": "alfelipone@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26e7"
+        },
+        {
+          "nickname": "Gabriel Sacc",
+          "email": "gasacchi@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26e8"
+        },
+        {
+          "nickname": "Fabris",
+          "email": "fabri.souza02@gmail.com",
+          "role": "Regular",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26e9"
+        },
+        {
+          "nickname": "Tirza M",
+          "email": "tmyaguchi@rd.com.br",
+          "role": "Moderator",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26ea"
+        },
+        {
+          "nickname": "Felipe Neves",
+          "email": "felbarneves@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26eb"
+        },
+        {
+          "nickname": "Raul Alves",
+          "email": "radalmeida@rd.com.br",
+          "role": "Regular",
+          "roomId": "6511e847ce9e735036aa247a",
+          "_id": "65121f00ce9e735036aa26ec"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-26T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "6437fe078be78e76a5e70b10",
+          "email": "diogo.silva@objective.com.br",
+          "licenseCurrent": "6437ff588be78e76a5e70b21",
+          "_id": "65137080ce9e735036aa288d"
+        },
+        {
+          "userId": "647dff2da9fd9cc17cf33253",
+          "email": "danilo.garcia@objective.com.br",
+          "licenseCurrent": "647dff2da9fd9cc17cf33255",
+          "_id": "65137080ce9e735036aa288e"
+        },
+        {
+          "userId": "64f63f6628986c69f5dda79f",
+          "email": "jbsfilho@rd.com.br",
+          "licenseCurrent": "64f734609fd2ef2b79e18858",
+          "_id": "65137080ce9e735036aa288f"
+        },
+        {
+          "userId": "64f7305028986c69f5dda7eb",
+          "email": "mfmarcotti@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885a",
+          "_id": "65137080ce9e735036aa2890"
+        },
+        {
+          "userId": "65131c72ce9e735036aa2773",
+          "email": "mfabltcinjkhfezlim@ckptr.com",
+          "licenseCurrent": "",
+          "_id": "65137080ce9e735036aa2891"
+        },
+        {
+          "userId": "651330dcce9e735036aa282b",
+          "email": "kdpblpouuvjbmngugw@ckptr.com",
+          "licenseCurrent": "",
+          "_id": "65137080ce9e735036aa2892"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "65131c72ce9e735036aa2773",
+          "email": "mfabltcinjkhfezlim@ckptr.com",
+          "licenseCurrent": "",
+          "_id": "65137080ce9e735036aa2893"
+        },
+        {
+          "userId": "65131e22ce9e735036aa27ba",
+          "email": "fabltcinjkhfezlim@ckptr.com",
+          "licenseCurrent": "",
+          "_id": "65137080ce9e735036aa2894"
+        },
+        {
+          "userId": "651330dcce9e735036aa282b",
+          "email": "kdpblpouuvjbmngugw@ckptr.com",
+          "licenseCurrent": "",
+          "_id": "65137080ce9e735036aa2895"
+        }
+      ],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa2896"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa2897"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa2898"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa2899"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa289a"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "65137080ce9e735036aa289b"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [
+        {
+          "roomId": "65132c0ace9e735036aa27d8",
+          "roomToken": "ZH488L",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-11T19:07:54.132Z",
+          "startDate": "2023-09-26T19:10:30.663Z",
+          "endDate": "2023-09-26T19:32:15.887Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65137080ce9e735036aa289e"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "65131d05ce9e735036aa27b2",
+          "roomToken": "TGCBZS",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-10-11T18:03:49.526Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65137080ce9e735036aa289c"
+        },
+        {
+          "roomId": "65132c0ace9e735036aa27d8",
+          "roomToken": "ZH488L",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-11T19:07:54.132Z",
+          "startDate": "2023-09-26T19:10:30.663Z",
+          "endDate": "2023-09-26T19:32:15.887Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65137080ce9e735036aa289d"
+        }
+      ],
+      "roomsExpired": [
+        {
+          "roomId": "64ff6c0928986c69f5dda9af",
+          "roomToken": "4PYW0X",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "diosi.freitas@objective.com.br",
+          "expirationDate": "2023-09-26T19:35:37.587Z",
+          "startDate": "2023-09-11T19:44:06.749Z",
+          "endDate": "2023-09-26T20:05:00.719Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "65137080ce9e735036aa28a0"
+        }
+      ],
+      "roomsFinished": [
+        {
+          "roomId": "65132c0ace9e735036aa27d8",
+          "roomToken": "ZH488L",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-11T19:07:54.132Z",
+          "startDate": "2023-09-26T19:10:30.663Z",
+          "endDate": "2023-09-26T19:32:15.887Z",
+          "roundCount": 2,
+          "level": "1",
+          "maturityLevel": "1",
+          "_id": "65137080ce9e735036aa289f"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Jessica",
+          "email": "jessicagterriaga@gmail.com",
+          "role": "Regular",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a1"
+        },
+        {
+          "nickname": "Márcia",
+          "email": "marciakbelchior@gmail.com",
+          "role": "Regular",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a2"
+        },
+        {
+          "nickname": "Ivan",
+          "email": "imvasconcelos@rd.com.br",
+          "role": "Regular",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a3"
+        },
+        {
+          "nickname": "Maria F",
+          "email": "mfmarcotti@rd.com.br",
+          "role": "Moderator",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a4"
+        },
+        {
+          "nickname": "Flávia",
+          "email": "flaregnascimento@rd.com.br",
+          "role": "Regular",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a5"
+        },
+        {
+          "nickname": "Ca",
+          "email": "cppgarcia.develcode@rd.com.br",
+          "role": "Regular",
+          "roomId": "65132c0ace9e735036aa27d8",
+          "_id": "65137080ce9e735036aa28a6"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-27T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "651457ca21b6d74f61e98d53",
+          "email": "gpfdsgjpfvutnpjjzf@ckptr.com",
+          "licenseCurrent": "651457ca21b6d74f61e98d56",
+          "_id": "6514c20021b6d74f61e98dc4"
+        },
+        {
+          "userId": "65146ff121b6d74f61e98d76",
+          "email": "gerhard@wagler.it",
+          "licenseCurrent": "65146ff121b6d74f61e98d79",
+          "_id": "6514c20021b6d74f61e98dc5"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "651457ca21b6d74f61e98d53",
+          "email": "gpfdsgjpfvutnpjjzf@ckptr.com",
+          "licenseCurrent": "651457ca21b6d74f61e98d56",
+          "_id": "6514c20021b6d74f61e98dc6"
+        },
+        {
+          "userId": "65146ff121b6d74f61e98d76",
+          "email": "gerhard@wagler.it",
+          "licenseCurrent": "65146ff121b6d74f61e98d79",
+          "_id": "6514c20021b6d74f61e98dc7"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "651457ca21b6d74f61e98d53",
+          "email": "gpfdsgjpfvutnpjjzf@ckptr.com",
+          "licenseCurrent": "651457ca21b6d74f61e98d56",
+          "licenseTime": 365,
+          "_id": "6514c20021b6d74f61e98dc8"
+        },
+        {
+          "userId": "65146ff121b6d74f61e98d76",
+          "email": "gerhard@wagler.it",
+          "licenseCurrent": "65146ff121b6d74f61e98d79",
+          "licenseTime": 365,
+          "_id": "6514c20021b6d74f61e98dc9"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dcc"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dcd"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dce"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dcf"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dd0"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6514c20021b6d74f61e98dd1"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "651457ca21b6d74f61e98d53",
+          "email": "gpfdsgjpfvutnpjjzf@ckptr.com",
+          "licenseCurrent": "651457ca21b6d74f61e98d56",
+          "licenseTime": 365,
+          "_id": "6514c20021b6d74f61e98dca"
+        },
+        {
+          "userId": "65146ff121b6d74f61e98d76",
+          "email": "gerhard@wagler.it",
+          "licenseCurrent": "65146ff121b6d74f61e98d79",
+          "licenseTime": 365,
+          "_id": "6514c20021b6d74f61e98dcb"
+        }
+      ],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [
+        {
+          "roomId": "65007dfb28986c69f5ddaa73",
+          "roomToken": "DHOFFZ",
+          "lang": "en",
+          "isTrial": true,
+          "owner": "felipe@e6inc.pro",
+          "expirationDate": "2023-09-27T15:04:27.033Z",
+          "startDate": "2023-09-12T15:06:22.406Z",
+          "endDate": "2023-09-27T20:05:00.883Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6514c20021b6d74f61e98dd2"
+        },
+        {
+          "roomId": "650081df28986c69f5ddaa97",
+          "roomToken": "6HFEXL",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "gustavosq@gmail.com",
+          "expirationDate": "2023-09-27T15:21:03.853Z",
+          "startDate": null,
+          "endDate": "2023-09-27T20:05:00.883Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6514c20021b6d74f61e98dd3"
+        },
+        {
+          "roomId": "650089b428986c69f5ddaaae",
+          "roomToken": "1W32EX",
+          "lang": "en",
+          "isTrial": true,
+          "owner": "csleoc@gmail.com",
+          "expirationDate": "2023-09-27T15:54:28.796Z",
+          "startDate": null,
+          "endDate": "2023-09-27T20:05:00.884Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6514c20021b6d74f61e98dd4"
+        },
+        {
+          "roomId": "6500aaf728986c69f5ddab4a",
+          "roomToken": "95WPL6",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "gabrielvwilke@gmail.com",
+          "expirationDate": "2023-09-27T18:16:23.411Z",
+          "startDate": null,
+          "endDate": "2023-09-27T20:05:00.884Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6514c20021b6d74f61e98dd5"
+        }
+      ],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-09-28T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f731f728986c69f5dda808",
+          "email": "fcfigueiredo@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18863",
+          "_id": "6516138021b6d74f61e98ebf"
+        }
+      ],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec0"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec1"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec2"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec3"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec4"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6516138021b6d74f61e98ec5"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [
+        {
+          "roomId": "65157bc821b6d74f61e98e19",
+          "roomToken": "XDD95B",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "fcfigueiredo@rd.com.br",
+          "expirationDate": "2023-10-13T13:12:40.780Z",
+          "startDate": "2023-09-28T13:14:33.237Z",
+          "endDate": "2023-09-28T13:30:20.671Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6516138021b6d74f61e98ec7"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "65157bc821b6d74f61e98e19",
+          "roomToken": "XDD95B",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "fcfigueiredo@rd.com.br",
+          "expirationDate": "2023-10-13T13:12:40.780Z",
+          "startDate": "2023-09-28T13:14:33.237Z",
+          "endDate": "2023-09-28T13:30:20.671Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6516138021b6d74f61e98ec6"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "65157bc821b6d74f61e98e19",
+          "roomToken": "XDD95B",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "fcfigueiredo@rd.com.br",
+          "expirationDate": "2023-10-13T13:12:40.780Z",
+          "startDate": "2023-09-28T13:14:33.237Z",
+          "endDate": "2023-09-28T13:30:20.671Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6516138021b6d74f61e98ec8"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Gabriel",
+          "email": "gasacchi@rd.com.br",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ec9"
+        },
+        {
+          "nickname": "João",
+          "email": "jbsfilho@rd.com.br",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98eca"
+        },
+        {
+          "nickname": "Pedro Azalim",
+          "email": "phazalim@rd.com.br",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ecb"
+        },
+        {
+          "nickname": "Mansur",
+          "email": "henrique.mansur@gmail.com",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ecc"
+        },
+        {
+          "nickname": "MATHEUS",
+          "email": "mkaussinissilva@gmail.com",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ecd"
+        },
+        {
+          "nickname": "Felipe C",
+          "email": "fcfigueiredo@rd.com.br",
+          "role": "Moderator",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ece"
+        },
+        {
+          "nickname": "Ca",
+          "email": "cppgarcia.develcode@rd.com.br",
+          "role": "Regular",
+          "roomId": "65157bc821b6d74f61e98e19",
+          "_id": "6516138021b6d74f61e98ecf"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-29T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "64f7314328986c69f5dda7f4",
+          "email": "tmyaguchi@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885d",
+          "_id": "6517650021b6d74f61e99028"
+        },
+        {
+          "userId": "651716d021b6d74f61e98ef0",
+          "email": "dalker@gmail.com",
+          "licenseCurrent": "651716d021b6d74f61e98ef3",
+          "_id": "6517650021b6d74f61e99029"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "6516ae9421b6d74f61e98ee8",
+          "email": "goal@wibas.com",
+          "licenseCurrent": "6516ae9421b6d74f61e98eeb",
+          "_id": "6517650021b6d74f61e9902a"
+        },
+        {
+          "userId": "651716d021b6d74f61e98ef0",
+          "email": "dalker@gmail.com",
+          "licenseCurrent": "651716d021b6d74f61e98ef3",
+          "_id": "6517650021b6d74f61e9902b"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "6516ae9421b6d74f61e98ee8",
+          "email": "goal@wibas.com",
+          "licenseCurrent": "6516ae9421b6d74f61e98eeb",
+          "licenseTime": 365,
+          "_id": "6517650021b6d74f61e9902c"
+        },
+        {
+          "userId": "651716d021b6d74f61e98ef0",
+          "email": "dalker@gmail.com",
+          "licenseCurrent": "651716d021b6d74f61e98ef3",
+          "licenseTime": 365,
+          "_id": "6517650021b6d74f61e9902d"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99030"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99031"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99032"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99033"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99034"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6517650021b6d74f61e99035"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "6516ae9421b6d74f61e98ee8",
+          "email": "goal@wibas.com",
+          "licenseCurrent": "6516ae9421b6d74f61e98eeb",
+          "licenseTime": 365,
+          "_id": "6517650021b6d74f61e9902e"
+        },
+        {
+          "userId": "651716d021b6d74f61e98ef0",
+          "email": "dalker@gmail.com",
+          "licenseCurrent": "651716d021b6d74f61e98ef3",
+          "licenseTime": 365,
+          "_id": "6517650021b6d74f61e9902f"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "6517172d21b6d74f61e98f0e",
+          "roomToken": "V5A25R",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "dalker@gmail.com",
+          "expirationDate": "2023-10-14T18:27:57.632Z",
+          "startDate": "2023-09-29T19:11:04.184Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6517650021b6d74f61e99038"
+        },
+        {
+          "roomId": "651727e821b6d74f61e98f80",
+          "roomToken": "DCI6QM",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-14T19:39:20.244Z",
+          "startDate": "2023-09-29T19:41:16.244Z",
+          "endDate": "2023-09-29T19:55:28.433Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6517650021b6d74f61e99039"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "6517172d21b6d74f61e98f0e",
+          "roomToken": "V5A25R",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "dalker@gmail.com",
+          "expirationDate": "2023-10-14T18:27:57.632Z",
+          "startDate": "2023-09-29T19:11:04.184Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6517650021b6d74f61e99036"
+        },
+        {
+          "roomId": "651727e821b6d74f61e98f80",
+          "roomToken": "DCI6QM",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-14T19:39:20.244Z",
+          "startDate": "2023-09-29T19:41:16.244Z",
+          "endDate": "2023-09-29T19:55:28.433Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6517650021b6d74f61e99037"
+        }
+      ],
+      "roomsExpired": [
+        {
+          "roomId": "65030fcb28986c69f5ddac7e",
+          "roomToken": "QBLTFN",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "erus.ferreira@objective.com.br",
+          "expirationDate": "2023-09-29T13:51:07.722Z",
+          "startDate": null,
+          "endDate": "2023-09-29T20:05:00.335Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "6517650021b6d74f61e9903b"
+        }
+      ],
+      "roomsFinished": [
+        {
+          "roomId": "651727e821b6d74f61e98f80",
+          "roomToken": "DCI6QM",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "tmyaguchi@rd.com.br",
+          "expirationDate": "2023-10-14T19:39:20.244Z",
+          "startDate": "2023-09-29T19:41:16.244Z",
+          "endDate": "2023-09-29T19:55:28.433Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "6517650021b6d74f61e9903a"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Raul Alves",
+          "email": "radalmeida@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e9903c"
+        },
+        {
+          "nickname": "João",
+          "email": "jbsfilho@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e9903d"
+        },
+        {
+          "nickname": "Tirza M",
+          "email": "tmyaguchi@rd.com.br",
+          "role": "Moderator",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e9903e"
+        },
+        {
+          "nickname": "Alana",
+          "email": "alsluna@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e9903f"
+        },
+        {
+          "nickname": "Larissa",
+          "email": "lsxavier@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e99040"
+        },
+        {
+          "nickname": "Renata",
+          "email": "rrassis@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e99041"
+        },
+        {
+          "nickname": "Flavia",
+          "email": "flaviacpirani@rd.com.br",
+          "role": "Regular",
+          "roomId": "651727e821b6d74f61e98f80",
+          "_id": "6517650021b6d74f61e99042"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-09-30T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e99075"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e99076"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e99077"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e99078"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e99079"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "6518b68021b6d74f61e9907a"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-10-01T00:00:00.000Z",
+      "usersLogin": [],
+      "usersCreated": [],
+      "licensesCreated": [],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e99098"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e99099"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e9909a"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e9909b"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e9909c"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "651a080021b6d74f61e9909d"
+        }
+      ],
+      "licensesActive": [],
+      "roomsStarted": [],
+      "roomsCreated": [],
+      "roomsExpired": [],
+      "roomsFinished": [],
+      "players": []
+    },
+    {
+      "dataLog": "2023-10-02T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "6437fe078be78e76a5e70b10",
+          "email": "diogo.silva@objective.com.br",
+          "licenseCurrent": "6437ff588be78e76a5e70b21",
+          "_id": "651b598021b6d74f61e992f6"
+        },
+        {
+          "userId": "643844bc8be78e76a5e70b76",
+          "email": "pedro.martins@objective.com.br",
+          "licenseCurrent": "643849538be78e76a5e70c0a",
+          "_id": "651b598021b6d74f61e992f7"
+        },
+        {
+          "userId": "647dd5caa9fd9cc17cf330f3",
+          "email": "w.meier@objective.com.br",
+          "licenseCurrent": "647dfb41a9fd9cc17cf331e4",
+          "_id": "651b598021b6d74f61e992f8"
+        },
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "6511d385ce9e735036aa228c",
+          "_id": "651b598021b6d74f61e992f9"
+        },
+        {
+          "userId": "64f731e128986c69f5dda805",
+          "email": "welborges@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e18862",
+          "_id": "651b598021b6d74f61e992fa"
+        },
+        {
+          "userId": "651af99621b6d74f61e990e9",
+          "email": "matt@milux.digital",
+          "licenseCurrent": "651af99621b6d74f61e990ec",
+          "_id": "651b598021b6d74f61e992fb"
+        },
+        {
+          "userId": "651afa0321b6d74f61e99101",
+          "email": "billing@prodevi.com",
+          "licenseCurrent": "651afa0321b6d74f61e99104",
+          "_id": "651b598021b6d74f61e992fc"
+        },
+        {
+          "userId": "651aff6321b6d74f61e99177",
+          "email": "andrew.kidd@daringfutures.com",
+          "licenseCurrent": "651aff6321b6d74f61e9917a",
+          "_id": "651b598021b6d74f61e992fd"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "651af96321b6d74f61e990e1",
+          "email": "oakleys@stu-oakley.com",
+          "licenseCurrent": "651af96321b6d74f61e990e4",
+          "_id": "651b598021b6d74f61e992fe"
+        },
+        {
+          "userId": "651af99621b6d74f61e990e9",
+          "email": "matt@milux.digital",
+          "licenseCurrent": "651af99621b6d74f61e990ec",
+          "_id": "651b598021b6d74f61e992ff"
+        },
+        {
+          "userId": "651af9bb21b6d74f61e990f1",
+          "email": "rob@robs.kanban.zone",
+          "licenseCurrent": "651af9bb21b6d74f61e990f4",
+          "_id": "651b598021b6d74f61e99300"
+        },
+        {
+          "userId": "651af9d921b6d74f61e990f9",
+          "email": "alejandro@atflow.com.br",
+          "licenseCurrent": "651af9d921b6d74f61e990fc",
+          "_id": "651b598021b6d74f61e99301"
+        },
+        {
+          "userId": "651afa0321b6d74f61e99101",
+          "email": "billing@prodevi.com",
+          "licenseCurrent": "651afa0321b6d74f61e99104",
+          "_id": "651b598021b6d74f61e99302"
+        },
+        {
+          "userId": "651afa4421b6d74f61e99109",
+          "email": "aslima@gmail.com",
+          "licenseCurrent": "651afa4421b6d74f61e9910c",
+          "_id": "651b598021b6d74f61e99303"
+        },
+        {
+          "userId": "651afa6621b6d74f61e99111",
+          "email": "mail@silke-noll.com",
+          "licenseCurrent": "651afa6621b6d74f61e99114",
+          "_id": "651b598021b6d74f61e99304"
+        },
+        {
+          "userId": "651afa9321b6d74f61e99122",
+          "email": "soma@somamazumder.com",
+          "licenseCurrent": "651afa9321b6d74f61e99125",
+          "_id": "651b598021b6d74f61e99305"
+        },
+        {
+          "userId": "651afaad21b6d74f61e99138",
+          "email": "jc.ferrieres@gmail.com",
+          "licenseCurrent": "651afaad21b6d74f61e9913b",
+          "_id": "651b598021b6d74f61e99306"
+        },
+        {
+          "userId": "651afadc21b6d74f61e9914a",
+          "email": "geoff_b@me.com",
+          "licenseCurrent": "651afadc21b6d74f61e9914d",
+          "_id": "651b598021b6d74f61e99307"
+        },
+        {
+          "userId": "651afd1e21b6d74f61e99157",
+          "email": "chungan.ke@scrumoholics.com",
+          "licenseCurrent": "651afd1e21b6d74f61e9915a",
+          "_id": "651b598021b6d74f61e99308"
+        },
+        {
+          "userId": "651afd4921b6d74f61e9915f",
+          "email": "dalmirb@agiliehunter.com",
+          "licenseCurrent": "651afd4921b6d74f61e99162",
+          "_id": "651b598021b6d74f61e99309"
+        },
+        {
+          "userId": "651afd9221b6d74f61e99167",
+          "email": "paulino.kok@agilizing.com",
+          "licenseCurrent": "651afd9221b6d74f61e9916a",
+          "_id": "651b598021b6d74f61e9930a"
+        },
+        {
+          "userId": "651afdb321b6d74f61e9916f",
+          "email": "orod.semsarzadeh@beeagile.com.au",
+          "licenseCurrent": "651afdb321b6d74f61e99172",
+          "_id": "651b598021b6d74f61e9930b"
+        },
+        {
+          "userId": "651aff6321b6d74f61e99177",
+          "email": "andrew.kidd@daringfutures.com",
+          "licenseCurrent": "651aff6321b6d74f61e9917a",
+          "_id": "651b598021b6d74f61e9930c"
+        },
+        {
+          "userId": "651aff7c21b6d74f61e9917f",
+          "email": "moiarcsan@gmail.com",
+          "licenseCurrent": "651aff7c21b6d74f61e99182",
+          "_id": "651b598021b6d74f61e9930d"
+        },
+        {
+          "userId": "651affbf21b6d74f61e99187",
+          "email": "sven.guenther@it-agile.de",
+          "licenseCurrent": "651affbf21b6d74f61e9918a",
+          "_id": "651b598021b6d74f61e9930e"
+        },
+        {
+          "userId": "651affd621b6d74f61e9918f",
+          "email": "massimo.sarti@gmail.com",
+          "licenseCurrent": "651affd621b6d74f61e99192",
+          "_id": "651b598021b6d74f61e9930f"
+        },
+        {
+          "userId": "651afff821b6d74f61e99197",
+          "email": "kaliusz55@gmail.com",
+          "licenseCurrent": "651afff821b6d74f61e9919a",
+          "_id": "651b598021b6d74f61e99310"
+        },
+        {
+          "userId": "651b002621b6d74f61e9919f",
+          "email": "muratyurdakul@live.com",
+          "licenseCurrent": "651b002621b6d74f61e991a2",
+          "_id": "651b598021b6d74f61e99311"
+        },
+        {
+          "userId": "651b004621b6d74f61e991a7",
+          "email": "dalker@tracao.online",
+          "licenseCurrent": "651b004621b6d74f61e991aa",
+          "_id": "651b598021b6d74f61e99312"
+        },
+        {
+          "userId": "651b006221b6d74f61e991af",
+          "email": "manolo.lopez@tecnofor.es",
+          "licenseCurrent": "651b006221b6d74f61e991b2",
+          "_id": "651b598021b6d74f61e99313"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "651af96321b6d74f61e990e1",
+          "email": "oakleys@stu-oakley.com",
+          "licenseCurrent": "651af96321b6d74f61e990e4",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99314"
+        },
+        {
+          "userId": "651af99621b6d74f61e990e9",
+          "email": "matt@milux.digital",
+          "licenseCurrent": "651af99621b6d74f61e990ec",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99315"
+        },
+        {
+          "userId": "651af9bb21b6d74f61e990f1",
+          "email": "rob@robs.kanban.zone",
+          "licenseCurrent": "651af9bb21b6d74f61e990f4",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99316"
+        },
+        {
+          "userId": "651af9d921b6d74f61e990f9",
+          "email": "alejandro@atflow.com.br",
+          "licenseCurrent": "651af9d921b6d74f61e990fc",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99317"
+        },
+        {
+          "userId": "651afa0321b6d74f61e99101",
+          "email": "billing@prodevi.com",
+          "licenseCurrent": "651afa0321b6d74f61e99104",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99318"
+        },
+        {
+          "userId": "651afa4421b6d74f61e99109",
+          "email": "aslima@gmail.com",
+          "licenseCurrent": "651afa4421b6d74f61e9910c",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99319"
+        },
+        {
+          "userId": "651afa6621b6d74f61e99111",
+          "email": "mail@silke-noll.com",
+          "licenseCurrent": "651afa6621b6d74f61e99114",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931a"
+        },
+        {
+          "userId": "651afa9321b6d74f61e99122",
+          "email": "soma@somamazumder.com",
+          "licenseCurrent": "651afa9321b6d74f61e99125",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931b"
+        },
+        {
+          "userId": "651afaad21b6d74f61e99138",
+          "email": "jc.ferrieres@gmail.com",
+          "licenseCurrent": "651afaad21b6d74f61e9913b",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931c"
+        },
+        {
+          "userId": "651afadc21b6d74f61e9914a",
+          "email": "geoff_b@me.com",
+          "licenseCurrent": "651afadc21b6d74f61e9914d",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931d"
+        },
+        {
+          "userId": "651afd1e21b6d74f61e99157",
+          "email": "chungan.ke@scrumoholics.com",
+          "licenseCurrent": "651afd1e21b6d74f61e9915a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931e"
+        },
+        {
+          "userId": "651afd4921b6d74f61e9915f",
+          "email": "dalmirb@agiliehunter.com",
+          "licenseCurrent": "651afd4921b6d74f61e99162",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9931f"
+        },
+        {
+          "userId": "651afd9221b6d74f61e99167",
+          "email": "paulino.kok@agilizing.com",
+          "licenseCurrent": "651afd9221b6d74f61e9916a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99320"
+        },
+        {
+          "userId": "651afdb321b6d74f61e9916f",
+          "email": "orod.semsarzadeh@beeagile.com.au",
+          "licenseCurrent": "651afdb321b6d74f61e99172",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99321"
+        },
+        {
+          "userId": "651aff6321b6d74f61e99177",
+          "email": "andrew.kidd@daringfutures.com",
+          "licenseCurrent": "651aff6321b6d74f61e9917a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99322"
+        },
+        {
+          "userId": "651aff7c21b6d74f61e9917f",
+          "email": "moiarcsan@gmail.com",
+          "licenseCurrent": "651aff7c21b6d74f61e99182",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99323"
+        },
+        {
+          "userId": "651affbf21b6d74f61e99187",
+          "email": "sven.guenther@it-agile.de",
+          "licenseCurrent": "651affbf21b6d74f61e9918a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99324"
+        },
+        {
+          "userId": "651affd621b6d74f61e9918f",
+          "email": "massimo.sarti@gmail.com",
+          "licenseCurrent": "651affd621b6d74f61e99192",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99325"
+        },
+        {
+          "userId": "651afff821b6d74f61e99197",
+          "email": "kaliusz55@gmail.com",
+          "licenseCurrent": "651afff821b6d74f61e9919a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99326"
+        },
+        {
+          "userId": "651b002621b6d74f61e9919f",
+          "email": "muratyurdakul@live.com",
+          "licenseCurrent": "651b002621b6d74f61e991a2",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99327"
+        },
+        {
+          "userId": "651b004621b6d74f61e991a7",
+          "email": "dalker@tracao.online",
+          "licenseCurrent": "651b004621b6d74f61e991aa",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99328"
+        },
+        {
+          "userId": "651b006221b6d74f61e991af",
+          "email": "manolo.lopez@tecnofor.es",
+          "licenseCurrent": "651b006221b6d74f61e991b2",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99329"
+        },
+        {
+          "userId": "642b4a38b98ce2328fcec674",
+          "email": "rmartins_old@segware.com",
+          "licenseCurrent": "651b243a21b6d74f61e992ce",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932a"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99342"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99343"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99344"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99345"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99346"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "651b598021b6d74f61e99347"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "651af96321b6d74f61e990e1",
+          "email": "oakleys@stu-oakley.com",
+          "licenseCurrent": "651af96321b6d74f61e990e4",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932b"
+        },
+        {
+          "userId": "651af99621b6d74f61e990e9",
+          "email": "matt@milux.digital",
+          "licenseCurrent": "651af99621b6d74f61e990ec",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932c"
+        },
+        {
+          "userId": "651af9bb21b6d74f61e990f1",
+          "email": "rob@robs.kanban.zone",
+          "licenseCurrent": "651af9bb21b6d74f61e990f4",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932d"
+        },
+        {
+          "userId": "651af9d921b6d74f61e990f9",
+          "email": "alejandro@atflow.com.br",
+          "licenseCurrent": "651af9d921b6d74f61e990fc",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932e"
+        },
+        {
+          "userId": "651afa0321b6d74f61e99101",
+          "email": "billing@prodevi.com",
+          "licenseCurrent": "651afa0321b6d74f61e99104",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9932f"
+        },
+        {
+          "userId": "651afa4421b6d74f61e99109",
+          "email": "aslima@gmail.com",
+          "licenseCurrent": "651afa4421b6d74f61e9910c",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99330"
+        },
+        {
+          "userId": "651afa6621b6d74f61e99111",
+          "email": "mail@silke-noll.com",
+          "licenseCurrent": "651afa6621b6d74f61e99114",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99331"
+        },
+        {
+          "userId": "651afa9321b6d74f61e99122",
+          "email": "soma@somamazumder.com",
+          "licenseCurrent": "651afa9321b6d74f61e99125",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99332"
+        },
+        {
+          "userId": "651afaad21b6d74f61e99138",
+          "email": "jc.ferrieres@gmail.com",
+          "licenseCurrent": "651afaad21b6d74f61e9913b",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99333"
+        },
+        {
+          "userId": "651afadc21b6d74f61e9914a",
+          "email": "geoff_b@me.com",
+          "licenseCurrent": "651afadc21b6d74f61e9914d",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99334"
+        },
+        {
+          "userId": "651afd1e21b6d74f61e99157",
+          "email": "chungan.ke@scrumoholics.com",
+          "licenseCurrent": "651afd1e21b6d74f61e9915a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99335"
+        },
+        {
+          "userId": "651afd4921b6d74f61e9915f",
+          "email": "dalmirb@agiliehunter.com",
+          "licenseCurrent": "651afd4921b6d74f61e99162",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99336"
+        },
+        {
+          "userId": "651afd9221b6d74f61e99167",
+          "email": "paulino.kok@agilizing.com",
+          "licenseCurrent": "651afd9221b6d74f61e9916a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99337"
+        },
+        {
+          "userId": "651afdb321b6d74f61e9916f",
+          "email": "orod.semsarzadeh@beeagile.com.au",
+          "licenseCurrent": "651afdb321b6d74f61e99172",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99338"
+        },
+        {
+          "userId": "651aff6321b6d74f61e99177",
+          "email": "andrew.kidd@daringfutures.com",
+          "licenseCurrent": "651aff6321b6d74f61e9917a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99339"
+        },
+        {
+          "userId": "651aff7c21b6d74f61e9917f",
+          "email": "moiarcsan@gmail.com",
+          "licenseCurrent": "651aff7c21b6d74f61e99182",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933a"
+        },
+        {
+          "userId": "651affbf21b6d74f61e99187",
+          "email": "sven.guenther@it-agile.de",
+          "licenseCurrent": "651affbf21b6d74f61e9918a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933b"
+        },
+        {
+          "userId": "651affd621b6d74f61e9918f",
+          "email": "massimo.sarti@gmail.com",
+          "licenseCurrent": "651affd621b6d74f61e99192",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933c"
+        },
+        {
+          "userId": "651afff821b6d74f61e99197",
+          "email": "kaliusz55@gmail.com",
+          "licenseCurrent": "651afff821b6d74f61e9919a",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933d"
+        },
+        {
+          "userId": "651b002621b6d74f61e9919f",
+          "email": "muratyurdakul@live.com",
+          "licenseCurrent": "651b002621b6d74f61e991a2",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933e"
+        },
+        {
+          "userId": "651b004621b6d74f61e991a7",
+          "email": "dalker@tracao.online",
+          "licenseCurrent": "651b004621b6d74f61e991aa",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e9933f"
+        },
+        {
+          "userId": "651b006221b6d74f61e991af",
+          "email": "manolo.lopez@tecnofor.es",
+          "licenseCurrent": "651b006221b6d74f61e991b2",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99340"
+        },
+        {
+          "userId": "642b4a38b98ce2328fcec674",
+          "email": "rmartins_old@segware.com",
+          "licenseCurrent": "651b243a21b6d74f61e992ce",
+          "licenseTime": 365,
+          "_id": "651b598021b6d74f61e99341"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "651b06f721b6d74f61e991fa",
+          "roomToken": "NZR0N3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "welborges@rd.com.br",
+          "expirationDate": "2023-10-17T18:07:51.227Z",
+          "startDate": "2023-10-02T18:10:55.002Z",
+          "endDate": "2023-10-02T18:27:50.985Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "651b598021b6d74f61e9934d"
+        },
+        {
+          "roomId": "651b0c9e21b6d74f61e99267",
+          "roomToken": "B0OHR4",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "w.meier@objective.com.br",
+          "expirationDate": "2023-10-17T18:31:58.569Z",
+          "startDate": "2023-10-02T19:05:15.199Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e9934e"
+        },
+        {
+          "roomId": "651b21ad21b6d74f61e992b6",
+          "roomToken": "9DDAZB",
+          "lang": "en",
+          "isTrial": false,
+          "owner": "pedro.martins@objective.com.br",
+          "expirationDate": "2023-10-17T20:01:49.797Z",
+          "startDate": "2023-10-02T20:02:39.566Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e9934f"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "651afad821b6d74f61e99147",
+          "roomToken": "8SHXDQ",
+          "lang": "en",
+          "isTrial": false,
+          "owner": "billing@prodevi.com",
+          "expirationDate": "2023-10-17T17:16:08.555Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e99348"
+        },
+        {
+          "roomId": "651b06f721b6d74f61e991fa",
+          "roomToken": "NZR0N3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "welborges@rd.com.br",
+          "expirationDate": "2023-10-17T18:07:51.227Z",
+          "startDate": "2023-10-02T18:10:55.002Z",
+          "endDate": "2023-10-02T18:27:50.985Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "651b598021b6d74f61e99349"
+        },
+        {
+          "roomId": "651b0c9e21b6d74f61e99267",
+          "roomToken": "B0OHR4",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "w.meier@objective.com.br",
+          "expirationDate": "2023-10-17T18:31:58.569Z",
+          "startDate": "2023-10-02T19:05:15.199Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e9934a"
+        },
+        {
+          "roomId": "651b1b7d21b6d74f61e9929c",
+          "roomToken": "W59JU9",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "erus.ferreira@objective.com.br",
+          "expirationDate": "2023-10-17T19:35:25.204Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e9934b"
+        },
+        {
+          "roomId": "651b21ad21b6d74f61e992b6",
+          "roomToken": "9DDAZB",
+          "lang": "en",
+          "isTrial": false,
+          "owner": "pedro.martins@objective.com.br",
+          "expirationDate": "2023-10-17T20:01:49.797Z",
+          "startDate": "2023-10-02T20:02:39.566Z",
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651b598021b6d74f61e9934c"
+        }
+      ],
+      "roomsExpired": [],
+      "roomsFinished": [
+        {
+          "roomId": "6511da2bce9e735036aa2317",
+          "roomToken": "-",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-10-10T19:06:19.497Z",
+          "startDate": null,
+          "endDate": "2023-10-02T17:01:04.126Z",
+          "roundCount": 0,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "651b598021b6d74f61e99350"
+        },
+        {
+          "roomId": "65131d05ce9e735036aa27b2",
+          "roomToken": "TGCBZS",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diogo.silva@objective.com.br",
+          "expirationDate": "2023-10-11T18:03:49.526Z",
+          "startDate": null,
+          "endDate": "2023-10-02T17:00:51.752Z",
+          "roundCount": 0,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "651b598021b6d74f61e99351"
+        },
+        {
+          "roomId": "651b06f721b6d74f61e991fa",
+          "roomToken": "NZR0N3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "welborges@rd.com.br",
+          "expirationDate": "2023-10-17T18:07:51.227Z",
+          "startDate": "2023-10-02T18:10:55.002Z",
+          "endDate": "2023-10-02T18:27:50.985Z",
+          "roundCount": 2,
+          "level": "0",
+          "maturityLevel": "0",
+          "_id": "651b598021b6d74f61e99352"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "Teste",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99353"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99354"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99355"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99356"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99357"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99358"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e99359"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e9935a"
+        },
+        {
+          "nickname": "teste@teste.com.br",
+          "email": "teste@teste.com.br",
+          "role": "Regular",
+          "roomId": "6511da2bce9e735036aa2317",
+          "_id": "651b598021b6d74f61e9935b"
+        },
+        {
+          "nickname": "Diogo B",
+          "email": "diogo.silva@objective.com.br",
+          "role": "Moderator",
+          "roomId": "65131d05ce9e735036aa27b2",
+          "_id": "651b598021b6d74f61e9935c"
+        },
+        {
+          "nickname": "João",
+          "email": "jbsfilho@rd.com.br",
+          "role": "Regular",
+          "roomId": "651b06f721b6d74f61e991fa",
+          "_id": "651b598021b6d74f61e9935d"
+        },
+        {
+          "nickname": "Aderencia",
+          "email": "squadaderencia@rd.com.br",
+          "role": "Regular",
+          "roomId": "651b06f721b6d74f61e991fa",
+          "_id": "651b598021b6d74f61e9935e"
+        },
+        {
+          "nickname": "Washington E",
+          "email": "welborges@rd.com.br",
+          "role": "Moderator",
+          "roomId": "651b06f721b6d74f61e991fa",
+          "_id": "651b598021b6d74f61e9935f"
+        },
+        {
+          "nickname": "Squad 1",
+          "email": "squad.friccaodeloja@rd.com.br",
+          "role": "Regular",
+          "roomId": "651b06f721b6d74f61e991fa",
+          "_id": "651b598021b6d74f61e99360"
+        },
+        {
+          "nickname": "Rafael",
+          "email": "rmalves@rd.com.br",
+          "role": "Regular",
+          "roomId": "651b06f721b6d74f61e991fa",
+          "_id": "651b598021b6d74f61e99361"
+        }
+      ]
+    },
+    {
+      "dataLog": "2023-10-03T00:00:00.000Z",
+      "usersLogin": [
+        {
+          "userId": "643844d08be78e76a5e70b90",
+          "email": "diego.santos@objective.com.br",
+          "licenseCurrent": "647dfd89a9fd9cc17cf3321f",
+          "_id": "651cab00e23578a6c1c2602e"
+        },
+        {
+          "userId": "645bb6cb3d6799acfe317663",
+          "email": "mlwalter@objective.com.br",
+          "licenseCurrent": "645bb6f03d6799acfe317668",
+          "_id": "651cab00e23578a6c1c2602f"
+        },
+        {
+          "userId": "647dd5caa9fd9cc17cf330f3",
+          "email": "w.meier@objective.com.br",
+          "licenseCurrent": "647dfb41a9fd9cc17cf331e4",
+          "_id": "651cab00e23578a6c1c26030"
+        },
+        {
+          "userId": "64d695aa0bb4518d558b0445",
+          "email": "adam.santos@objective.com.br",
+          "licenseCurrent": "",
+          "_id": "651cab00e23578a6c1c26031"
+        },
+        {
+          "userId": "64ecfde628986c69f5dda419",
+          "email": "erus.ferreira@objective.com.br",
+          "licenseCurrent": "6511d385ce9e735036aa228c",
+          "_id": "651cab00e23578a6c1c26032"
+        },
+        {
+          "userId": "64f63f6128986c69f5dda798",
+          "email": "marbrarocha@rd.com.br",
+          "licenseCurrent": "64f733759fd2ef2b79e18856",
+          "_id": "651cab00e23578a6c1c26033"
+        },
+        {
+          "userId": "64f7305028986c69f5dda7eb",
+          "email": "mfmarcotti@rd.com.br",
+          "licenseCurrent": "64f734ce9fd2ef2b79e1885a",
+          "_id": "651cab00e23578a6c1c26034"
+        }
+      ],
+      "usersCreated": [
+        {
+          "userId": "651c0b4d21b6d74f61e993d7",
+          "email": "erus.ferreira+1@objective.com.br",
+          "licenseCurrent": "651c0b4d21b6d74f61e993da",
+          "_id": "651cab00e23578a6c1c26035"
+        },
+        {
+          "userId": "651c1efb21b6d74f61e9959b",
+          "email": "rmalves@rd.com.br",
+          "licenseCurrent": "651c1efb21b6d74f61e9959e",
+          "_id": "651cab00e23578a6c1c26036"
+        }
+      ],
+      "licensesCreated": [
+        {
+          "userId": "651c0b4d21b6d74f61e993d7",
+          "email": "erus.ferreira+1@objective.com.br",
+          "licenseCurrent": "651c0b4d21b6d74f61e993da",
+          "licenseTime": 365,
+          "_id": "651cab00e23578a6c1c26037"
+        },
+        {
+          "userId": "651c1efb21b6d74f61e9959b",
+          "email": "rmalves@rd.com.br",
+          "licenseCurrent": "651c1efb21b6d74f61e9959e",
+          "licenseTime": 365,
+          "_id": "651cab00e23578a6c1c26038"
+        }
+      ],
+      "licensesExpired": [],
+      "licensesActivationPending": [
+        {
+          "userId": "642b4ad2b98ce2328fcec67e",
+          "email": "ananda.donini@hotmail.com",
+          "licenseCurrent": "642b4ad2b98ce2328fcec680",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c2603b"
+        },
+        {
+          "userId": "642b4b02b98ce2328fcec685",
+          "email": "bticianelli@gmail.comm",
+          "licenseCurrent": "642b4b02b98ce2328fcec687",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c2603c"
+        },
+        {
+          "userId": "642c274db98ce2328fcec6eb",
+          "email": "thaisgloria@gmail.com",
+          "licenseCurrent": "642c274db98ce2328fcec6ed",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c2603d"
+        },
+        {
+          "userId": "642c59b2b98ce2328fcec776",
+          "email": "fernando.jpcunha@gmail.com",
+          "licenseCurrent": "642c59b2b98ce2328fcec778",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c2603e"
+        },
+        {
+          "userId": "642f0d4db98ce2328fcec813",
+          "email": "jstacciarini@gmail.com",
+          "licenseCurrent": "642f0d4db98ce2328fcec815",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c2603f"
+        },
+        {
+          "userId": "642f1579b98ce2328fcec81d",
+          "email": "bticianelli@gmail.com",
+          "licenseCurrent": "6474b88cb2bc89c14fcd4f58",
+          "licenseTime": 90,
+          "_id": "651cab00e23578a6c1c26040"
+        }
+      ],
+      "licensesActive": [
+        {
+          "userId": "651c0b4d21b6d74f61e993d7",
+          "email": "erus.ferreira+1@objective.com.br",
+          "licenseCurrent": "651c0b4d21b6d74f61e993da",
+          "licenseTime": 365,
+          "_id": "651cab00e23578a6c1c26039"
+        },
+        {
+          "userId": "651c1efb21b6d74f61e9959b",
+          "email": "rmalves@rd.com.br",
+          "licenseCurrent": "651c1efb21b6d74f61e9959e",
+          "licenseTime": 365,
+          "_id": "651cab00e23578a6c1c2603a"
+        }
+      ],
+      "roomsStarted": [
+        {
+          "roomId": "651c363521b6d74f61e995c5",
+          "roomToken": "DDF27N",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diego.santos@objective.com.br",
+          "expirationDate": "2023-10-18T15:41:41.723Z",
+          "startDate": "2023-10-03T15:46:12.026Z",
+          "endDate": "2023-10-03T20:13:14.985Z",
+          "roundCount": 7,
+          "level": "4->5",
+          "maturityLevel": "4",
+          "_id": "651cab00e23578a6c1c26047"
+        },
+        {
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "roomToken": "D9LAF3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-18T17:59:35.931Z",
+          "startDate": "2023-10-03T19:18:24.240Z",
+          "endDate": "2023-10-03T19:55:39.353Z",
+          "roundCount": 4,
+          "level": "2->3",
+          "maturityLevel": "2",
+          "_id": "651cab00e23578a6c1c26048"
+        }
+      ],
+      "roomsCreated": [
+        {
+          "roomId": "651c0fa721b6d74f61e993f0",
+          "roomToken": "XKLYJ2",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "adam.santos@objective.com.br",
+          "expirationDate": "2023-10-18T12:57:11.583Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651cab00e23578a6c1c26041"
+        },
+        {
+          "roomId": "651c183321b6d74f61e99457",
+          "roomToken": "-",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diego.santos@objective.com.br",
+          "expirationDate": "2023-10-18T13:33:39.023Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651cab00e23578a6c1c26042"
+        },
+        {
+          "roomId": "651c1c8521b6d74f61e9950a",
+          "roomToken": "-",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diego.santos@objective.com.br",
+          "expirationDate": "2023-10-18T13:52:05.969Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651cab00e23578a6c1c26043"
+        },
+        {
+          "roomId": "651c1e5a21b6d74f61e9958c",
+          "roomToken": "FMQXNH",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "marbrarocha@rd.com.br",
+          "expirationDate": "2023-10-18T13:59:54.782Z",
+          "startDate": null,
+          "endDate": null,
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651cab00e23578a6c1c26044"
+        },
+        {
+          "roomId": "651c363521b6d74f61e995c5",
+          "roomToken": "DDF27N",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diego.santos@objective.com.br",
+          "expirationDate": "2023-10-18T15:41:41.723Z",
+          "startDate": "2023-10-03T15:46:12.026Z",
+          "endDate": "2023-10-03T20:13:14.985Z",
+          "roundCount": 7,
+          "level": "4->5",
+          "maturityLevel": "4",
+          "_id": "651cab00e23578a6c1c26045"
+        },
+        {
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "roomToken": "D9LAF3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-18T17:59:35.931Z",
+          "startDate": "2023-10-03T19:18:24.240Z",
+          "endDate": "2023-10-03T19:55:39.353Z",
+          "roundCount": 4,
+          "level": "2->3",
+          "maturityLevel": "2",
+          "_id": "651cab00e23578a6c1c26046"
+        }
+      ],
+      "roomsExpired": [
+        {
+          "roomId": "650894a7ce9e735036aa1c00",
+          "roomToken": "KDWVXK",
+          "lang": "pt",
+          "isTrial": true,
+          "owner": "rodrigoalmeidadeoliveira@gmail.com",
+          "expirationDate": "2023-10-03T18:19:19.177Z",
+          "startDate": null,
+          "endDate": "2023-10-03T20:05:00.480Z",
+          "roundCount": 0,
+          "level": "",
+          "maturityLevel": "",
+          "_id": "651cab00e23578a6c1c2604b"
+        }
+      ],
+      "roomsFinished": [
+        {
+          "roomId": "651c363521b6d74f61e995c5",
+          "roomToken": "DDF27N",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "diego.santos@objective.com.br",
+          "expirationDate": "2023-10-18T15:41:41.723Z",
+          "startDate": "2023-10-03T15:46:12.026Z",
+          "endDate": "2023-10-03T20:13:14.985Z",
+          "roundCount": 7,
+          "level": "4->5",
+          "maturityLevel": "4",
+          "_id": "651cab00e23578a6c1c26049"
+        },
+        {
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "roomToken": "D9LAF3",
+          "lang": "pt",
+          "isTrial": false,
+          "owner": "mfmarcotti@rd.com.br",
+          "expirationDate": "2023-10-18T17:59:35.931Z",
+          "startDate": "2023-10-03T19:18:24.240Z",
+          "endDate": "2023-10-03T19:55:39.353Z",
+          "roundCount": 4,
+          "level": "2->3",
+          "maturityLevel": "2",
+          "_id": "651cab00e23578a6c1c2604a"
+        }
+      ],
+      "players": [
+        {
+          "nickname": "dsiqueiras",
+          "email": "dsiqueiras@gmail.com",
+          "role": "Regular",
+          "roomId": "651c363521b6d74f61e995c5",
+          "_id": "651cab00e23578a6c1c2604c"
+        },
+        {
+          "nickname": "Diego S",
+          "email": "diego.santos@objective.com.br",
+          "role": "Moderator",
+          "roomId": "651c363521b6d74f61e995c5",
+          "_id": "651cab00e23578a6c1c2604d"
+        },
+        {
+          "nickname": "dd",
+          "email": "dd@gmail.com",
+          "role": "Regular",
+          "roomId": "651c363521b6d74f61e995c5",
+          "_id": "651cab00e23578a6c1c2604e"
+        },
+        {
+          "nickname": "Jéssica",
+          "email": "jicgterriaga@rd.com.br",
+          "role": "Regular",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c2604f"
+        },
+        {
+          "nickname": "Rafa",
+          "email": "rmalves@rd.com.br",
+          "role": "Regular",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26050"
+        },
+        {
+          "nickname": "Larissa",
+          "email": "lsxavier@rd.com.br",
+          "role": "Regular",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26051"
+        },
+        {
+          "nickname": "Gilse",
+          "email": "gaferreira@rd.com.br",
+          "role": "Regular",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26052"
+        },
+        {
+          "nickname": "Nati",
+          "email": "npbastida@rd.com.br",
+          "role": "Regular",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26053"
+        },
+        {
+          "nickname": "Maria F",
+          "email": "mfmarcotti@rd.com.br",
+          "role": "Moderator",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26054"
+        },
+        {
+          "nickname": "Maria F",
+          "email": "maria.fernanda.marcotti@gmail.com",
+          "role": "Observer",
+          "roomId": "651c568721b6d74f61e9a1b2",
+          "_id": "651cab00e23578a6c1c26055"
+        }
+      ]
+    }
+  ]
+}
