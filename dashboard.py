@@ -80,6 +80,39 @@ def plot_combined_licenses_evolution(df):
 # This function should be called in the Streamlit app after fetching the data and converting it to the 'details_df' DataFrame:
 # plot_combined_licenses_evolution(details_df)
 
+def display_summary_table(df):
+    """
+    Display a summary table in Streamlit.
+    
+    Args:
+    - df (DataFrame): The input data.
+    """
+    
+    # Extract email and counts for roomsCreated, roomsStarted, and roomsFinished
+    df["count_roomsCreated"] = df["roomsCreated"].apply(len)
+    df["count_roomsStarted"] = df["roomsStarted"].apply(len)
+    df["count_roomsFinished"] = df["roomsFinished"].apply(len)
+
+    # Aggregate the counts by email
+    # For this, we'll need to "explode" the data so each email is on its own row
+    exploded_emails = df.explode("usersLogin")
+    exploded_emails["email"] = exploded_emails["usersLogin"].apply(lambda x: x['email'] if isinstance(x, dict) else None)
+    
+    aggregated_data = exploded_emails.groupby("email").agg(
+        Qtd_salas_criadas=("count_roomsCreated", "sum"),
+        Qtd_salas_Iniciadas=("count_roomsStarted", "sum"),
+        Qtd_salas_Finalizadas=("count_roomsFinished", "sum")
+    )
+
+    # Sort the aggregated data by counts
+    sorted_table = aggregated_data.sort_values(by=["Qtd_salas_criadas", "Qtd_salas_Iniciadas", "Qtd_salas_Finalizadas"], ascending=[False, False, False])
+
+    # Display the table in Streamlit
+    st.write(sorted_table)
+
+
+    
+
 
 
 # Streamlit UI
@@ -124,4 +157,7 @@ if st.session_state.auth_token:
             details_df['dataLog'] = pd.to_datetime(details_df['dataLog'])
             plot_users_login_evolution(details_df)
             plot_combined_licenses_evolution(details_df)
+        
+        display_summary_table(details_df)
+
         st.write(data)  # Display the fetched data (for debugging)
