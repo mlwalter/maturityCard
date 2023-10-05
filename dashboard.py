@@ -110,10 +110,47 @@ def display_summary_table(df):
     # Display the table in Streamlit
     st.write(sorted_table)
 
+import altair as alt
 
+import altair as alt
+
+def plot_cumulative_licenses(df):
+    """
+    Plot a line chart showing cumulative active licenses and created licenses over time using Altair.
     
+    Args:
+    - df (DataFrame): The input data.
+    """
+    # Ensure the DataFrame is sorted by dataLog
+    df = df.sort_values(by="dataLog")
+    
+    # Calculate cumulative sums for active and created licenses
+    df["cumulative_active_licenses"] = df["licensesActive"].apply(len).cumsum()
+    df["cumulative_created_licenses"] = df["licensesCreated"].apply(len).cumsum()
+
+    # Prepare data for Altair chart
+    chart_data = pd.DataFrame({
+        'dataLog': df['dataLog'].tolist() * 2,
+        'values': df['cumulative_active_licenses'].tolist() + df['cumulative_created_licenses'].tolist(),
+        'category': ['Active Licenses'] * len(df) + ['Created Licenses'] * len(df)
+    })
+
+    # Create the Altair chart
+    chart = alt.Chart(chart_data).mark_line().encode(
+        x=alt.X('dataLog:T', title='data'),
+        y=alt.Y('values:Q', title='Number of Licenses'),
+        color=alt.Color('category:N', legend=alt.Legend(title="License Type", orient='bottom')),
+        tooltip=['dataLog:T', 'values:Q', 'category:N']
+    ).properties(
+        title="Cumulative Active and Created Licenses Over Time"
+    )
+
+    st.altair_chart(chart, use_container_width=True)
 
 
+
+
+#Main --------------------------------------------
 
 # Streamlit UI
 st.title("MaturityCards Dashboard")
@@ -159,5 +196,6 @@ if st.session_state.auth_token:
             plot_combined_licenses_evolution(details_df)
         
         display_summary_table(details_df)
+        plot_cumulative_licenses(details_df)
 
         st.write(data)  # Display the fetched data (for debugging)
