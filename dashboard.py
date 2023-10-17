@@ -54,7 +54,6 @@ def plot_users_login_evolution(df):
     plot_line_chart(df, 'dataLog', 'daily_usersLogin', "Evolução Diária de Usuários que Fizeram Login")
 
 # Function to plot the evolution of licenses
-
 def plot_combined_licenses_evolution(df):
     # Calculate the daily number for licenses
     df['daily_licensesCreated'] = df['licensesCreated'].apply(len)
@@ -110,10 +109,6 @@ def display_summary_table(df):
     # Display the table in Streamlit
     st.write(sorted_table)
 
-import altair as alt
-
-import altair as alt
-
 def plot_cumulative_licenses(df):
     """
     Plot a line chart showing cumulative active licenses and created licenses over time using Altair.
@@ -147,10 +142,8 @@ def plot_cumulative_licenses(df):
 
     st.altair_chart(chart, use_container_width=True)
 
-
-
-
 #Main --------------------------------------------
+#teste commit Meier
 
 # Streamlit UI
 st.title("MaturityCards Dashboard")
