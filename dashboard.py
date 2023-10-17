@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import altair as alt
 
+#teste Commit
 # Base URL for the API
 BASE_URL = "https://game.maturitycard.com/api/"
 
